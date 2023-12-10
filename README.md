@@ -21,7 +21,8 @@ Technologies Used:
   1. HTML: Structure and content of the web page.
   2. CSS: Styling and appearance of the web page.
   3. JavaScript: Functionality and interactivity of the web page.
-  
+
+
   
 
 
